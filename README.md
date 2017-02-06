@@ -222,6 +222,7 @@ public class GameManager : MonoBehaviour
         {
             periodo = periodo + 1;
         }
+        
     }
 
     // FAZER CODIGO PARA GUARDAR OS DADOS DO DIA 1 E RESETAR OS TERRENOS E PUXAR A CENA DO DIA 2
